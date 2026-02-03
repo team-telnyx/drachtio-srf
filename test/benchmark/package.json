@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "benchmark": "^2.1.4",
-    "drachtio-srf": "^4.5.19"
+    "drachtio-srf": "^4.5.43"
   }
 }
